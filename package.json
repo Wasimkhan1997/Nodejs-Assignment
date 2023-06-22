@@ -1,0 +1,15 @@
+{
+  "name": "pw-skills",
+  "version": "1.0.0",
+  "description": "Pw Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hello",
+    "World"
+  ],
+  "author": "Wasim",
+  "license": "ISC"
+}
